@@ -16,7 +16,7 @@ Building SaaS, AI & Mobility Solutions.
 | Product | Description |
 | --- | --- |
 | **Rensys** | レンタカー予約・管理システム |
-| **Car Viking** | 沖縄特化型中古車売買プラットフォーム |
+| **Car Buyking** | 沖縄特化型中古車売買プラットフォーム |
 | **AIlog-hub** | AIによるブログ記事・画像生成・自動投稿 |
 | **Sutto** | QRコード対応の勤怠管理システム |
 
